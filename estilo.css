@@ -1,6 +1,4 @@
 body {
-    height: 150vh;
-    width: 90vw;
     font: normal 15pt 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: linear-gradient(to right, #5affd3, #c9c9c9);
 
@@ -21,7 +19,7 @@ section {
     color: rgb(2, 2, 2);
     border-radius: 15px;
     padding: 10px;
-    width: 100px;
+    width: 250px;
     margin: auto;
     box-shadow: 2px 1px 1px 2px rgba(0, 0, 0, 0.189);
 }
